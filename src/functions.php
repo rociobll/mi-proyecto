@@ -5,8 +5,7 @@ function saludar() {
 }
 
 function mensaje() {
-    return "Este es un mensaje personalizado pto.9, y ahora lo modifico para crear conflicto 
-    con rama funcionalidad-1 pto.12";
+    return "Resuelvo el conflicto editando functionsphp desde master, 
+    añadiré al area de preparacio y haré commit";
 }
-
 ?>
